@@ -1,0 +1,17 @@
+img{
+    margin-top: 30px;
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+}
+#btn{
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+}
+#btn:hover{
+    background: linear-gradient(45deg,rgb(15, 13, 13),rgb(122, 49, 213),rgb(32, 31, 31));
+}
+body{
+    background-color: burlywood;
+}
